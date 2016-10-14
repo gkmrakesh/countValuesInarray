@@ -22,4 +22,4 @@ Then, require the package and use it like so:
 
 ## License
 
-Apache 2.0
+MIT
