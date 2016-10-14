@@ -1,5 +1,5 @@
 {
-  "name": "count-values-inarraya",
+  "name": "count-values-inarray",
   "version": "1.0.0",
   "description": "provide integer array to find count of all values",
   "main": "arrayCount.js",
