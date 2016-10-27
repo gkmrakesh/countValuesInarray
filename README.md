@@ -19,6 +19,7 @@ Then, require the package and use it like so:
 	console.log(arrayCount([])); // 0
 	console.log(arrayCount([1,2,3])); // 6
 	console.log(arrayCount([1,2,"3"])); // 3
+	console.log(arrayCount([1,2,"3",4])); // 7
 
 ## License
 
