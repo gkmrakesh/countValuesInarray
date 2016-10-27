@@ -1,6 +1,6 @@
 {
   "name": "count-values-inarray",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "provide integer array to find count of all values",
   "main": "arrayCount.js",
   "scripts": {
